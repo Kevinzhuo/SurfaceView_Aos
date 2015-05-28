@@ -46,7 +46,7 @@ public class MySurfaceView extends SurfaceView implements
     if (mySurfaceViewThread == null) {
       mySurfaceViewThread = new MySurfaceViewThread();
 
-      if (hasSurface == true)
+      if (hasSurface)
         mySurfaceViewThread.start();
     }
   }

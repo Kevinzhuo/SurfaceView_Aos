@@ -2,6 +2,6 @@
 <resources>
     <!-- From: file:/D:/用户目录/Documents/GitHub/SurfaceView_Aos/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">PA4AD_Ch11_SurfaceView</string>
+    <string name="app_name">SurfaceView_Aos</string>
     <string name="hello">Hello World, MyActivity!</string>
 </resources>
